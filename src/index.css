@@ -1,0 +1,194 @@
+  body {
+    background-color: rgb(255, 255, 255) !important;
+  }
+
+  /*timepicker style*/
+  .react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box ul.react-datepicker__time-list {
+    padding-left: 0;
+    padding-right: 0;
+    width: 100px;
+  }
+
+  .react-datepicker__input-container {
+    width: inherit;
+  }
+
+  .react-datepicker-wrapper {
+    width: 100%;
+  }
+
+
+  /*home page styles*/
+
+  .masthead {
+    background-image: linear-gradient(
+            135deg,
+            rgb(24, 42, 115) 0%,
+            rgb(33, 138, 174) 69%,
+            rgb(32, 167, 172) 89%
+    ) !important;
+  }
+
+  .masthead.segment {
+    min-height: 700px;
+    padding: 1em 0 !important;
+  }
+
+  .masthead .ui.menu .ui.button,
+  .ui.menu a.ui.inverted.button {
+    margin-left: 0.5em;
+  }
+
+  .masthead h1.ui.header {
+    margin-top: 3em;
+    margin-bottom: 0;
+    font-size: 4em;
+    font-weight: normal;
+  }
+
+  .masthead h2 {
+    font-size: 1.7em;
+    font-weight: normal;
+  }
+
+  .footer.segment {
+    padding: 5em 0;
+  }
+
+  .secondary.inverted.pointing.menu {
+    border: none;
+  }
+
+  /*end home page styles*/
+
+  /* navbar styles */
+
+  .ui.menu .item img.logo {
+    margin-right: 1.5em;
+  }
+
+  .ui.fixed.menu {
+    background-image: linear-gradient(
+            135deg,
+            rgb(24, 42, 115) 0%,
+            rgb(33, 138, 174) 69%,
+            rgb(32, 167, 172) 89%
+    ) !important;
+  }
+
+  .ui.main.container,
+  .main.segment {
+    margin-top: 7em;
+  }
+
+  .ui.center.aligned.segment.attendance-preview {
+    background-color: #f5f5f5;
+  }
+
+  .masthead .ui.menu .ui.button,
+  .ui.menu a.ui.inverted.button {
+    margin-left: 0.5em;
+  }
+
+  .ui.menu .item>img:not(.ui) {
+    margin-right: 1.5em !important;
+  }
+
+  .ui.menu:not(.vertical) .item>.button {
+    margin-left: 0.5em;
+  }
+
+  /*chat comments*/
+
+  .ui.comments .comment .comments {
+    padding-bottom: 0 !important;
+    padding-left: 2em !important;
+  }
+
+
+  /* Contact page */
+
+  #contactformpage .view {
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/89.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 150vh;
+  }
+
+  #contactformpage h6 {
+    line-height: 1.7;
+  }
+
+  #contactformpage .navbartoggler{
+    
+  }
+
+
+  #contactformpage .navbar {
+    /* transition: background .5s ease-in-out,padding .5s ease-in-out; */
+    background: #ffffff !important;
+  
+    
+  }
+
+  .navbar .navbar-toggler {
+    background: #cacaca !important;
+  }
+
+  /* #contactformpage .top-nav-collapse {
+    background: #ffffff !important;
+  } */
+
+  @media (max-width: 768px) {
+    #contactformpage .navbar:not(.top-nav-collapse) {
+        background: #ffffff !important;
+    }
+  }
+
+  #contactformpage .form-check {
+    margin-bottom: 0!important;
+  }
+
+  #contactformpage i {
+    color: #ffffff!important;
+  }
+
+
+  .link {
+    color: rgb(109, 109, 109)!important;;
+  }
+  .link:hover {
+     color: rgb(0, 0, 0) !important;
+  }
+
+
+
+  /* #videobackground .gradient {
+    background: -moz-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+    background: linear-gradient(to 45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+  }
+
+  #videobackground .view video {
+  top: 0!important;
+  left: 0!important;
+  transform: none!important;
+  height: 100vh;
+  } */
+
+
+  .form-elegant .font-small {
+    font-size: 0.8rem; }
+  
+  .form-elegant .z-depth-1a {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25);
+    box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25); }
+  
+  .form-elegant .z-depth-1-half,
+  .form-elegant .btn:hover {
+    -webkit-box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15);
+    box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15); }
+
+
+    
